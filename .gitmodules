@@ -1,0 +1,3 @@
+[submodule "pulse-base-sdk"]
+	path = pulse-base-sdk
+	url = https://gitlab.com/gtn-tech/native-applications/apple/pulse-base-sdk.git

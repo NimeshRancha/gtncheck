@@ -14,6 +14,9 @@
 		5508D0C72B5A88360073CD36 /* swiftfulThinkingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5508D0C62B5A88360073CD36 /* swiftfulThinkingTests.swift */; };
 		5508D0D12B5A88360073CD36 /* swiftfulThinkingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5508D0D02B5A88360073CD36 /* swiftfulThinkingUITests.swift */; };
 		5508D0D32B5A88360073CD36 /* swiftfulThinkingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5508D0D22B5A88360073CD36 /* swiftfulThinkingUITestsLaunchTests.swift */; };
+		5508D0E02B5CBE430073CD36 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5508D0DF2B5CBE430073CD36 /* TextBootcamp.swift */; };
+		5508D0E22B5CC64C0073CD36 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5508D0E12B5CC64C0073CD36 /* ShapesBootcamp.swift */; };
+		551CD19A2B6398A9005CE412 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 551CD1992B6398A9005CE412 /* Colors.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +48,9 @@
 		5508D0CC2B5A88360073CD36 /* swiftfulThinkingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swiftfulThinkingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5508D0D02B5A88360073CD36 /* swiftfulThinkingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftfulThinkingUITests.swift; sourceTree = "<group>"; };
 		5508D0D22B5A88360073CD36 /* swiftfulThinkingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftfulThinkingUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5508D0DF2B5CBE430073CD36 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
+		5508D0E12B5CC64C0073CD36 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
+		551CD1992B6398A9005CE412 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +103,9 @@
 			children = (
 				5508D0B42B5A88350073CD36 /* swiftfulThinkingApp.swift */,
 				5508D0B62B5A88350073CD36 /* ContentView.swift */,
+				551CD1992B6398A9005CE412 /* Colors.swift */,
+				5508D0DF2B5CBE430073CD36 /* TextBootcamp.swift */,
+				5508D0E12B5CC64C0073CD36 /* ShapesBootcamp.swift */,
 				5508D0B82B5A88360073CD36 /* Assets.xcassets */,
 				5508D0BA2B5A88360073CD36 /* swiftfulThinking.entitlements */,
 				5508D0BB2B5A88360073CD36 /* Preview Content */,
@@ -259,7 +268,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5508D0E22B5CC64C0073CD36 /* ShapesBootcamp.swift in Sources */,
+				551CD19A2B6398A9005CE412 /* Colors.swift in Sources */,
 				5508D0B72B5A88350073CD36 /* ContentView.swift in Sources */,
+				5508D0E02B5CBE430073CD36 /* TextBootcamp.swift in Sources */,
 				5508D0B52B5A88350073CD36 /* swiftfulThinkingApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
