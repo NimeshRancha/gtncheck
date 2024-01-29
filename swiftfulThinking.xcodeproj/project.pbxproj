@@ -51,6 +51,7 @@
 		5508D0DF2B5CBE430073CD36 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 		5508D0E12B5CC64C0073CD36 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 		551CD1992B6398A9005CE412 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
+		5598D5022B67954400B7AA49 /* pulse-base-sdk */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "pulse-base-sdk"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 		5508D0A82B5A88350073CD36 = {
 			isa = PBXGroup;
 			children = (
+				5598D5022B67954400B7AA49 /* pulse-base-sdk */,
 				5508D0B32B5A88350073CD36 /* swiftfulThinking */,
 				5508D0C52B5A88360073CD36 /* swiftfulThinkingTests */,
 				5508D0CF2B5A88360073CD36 /* swiftfulThinkingUITests */,
